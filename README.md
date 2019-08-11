@@ -5,9 +5,9 @@ This Patient Absenteeism Project is from Udacity's Nano Degree Program. The proj
 
 All work was done in a Jupyter Notebook although an HTML file has also been provided.
 
-If using Anaconda: conda install jupyter notebook
+If using Anaconda: `conda install jupyter notebook`
 
-Pip: pip install jupyter notebook
+Pip: `pip install jupyter notebook`
 
 # Commit Preface
 
