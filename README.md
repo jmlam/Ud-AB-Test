@@ -11,4 +11,4 @@ Pip: `pip install jupyter notebook`
 
 # Commit Preface
 
-This project was done prior to active use of git, therefore no commits are avaliable.#
+This project was done prior to active use of git, therefore no commits are avaliable.
