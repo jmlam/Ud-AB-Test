@@ -1,5 +1,5 @@
 # Ud-AB-Test
-This Patient Absenteeism Project is from Udacity's Nano Degree Program. The project used a fictional dataset to peform an A/B test on the conversion rates of two fictional webpages; conversion rates are defined as the number of viewers that took further steps in the sales pipeline. This project was an exercise of basic statistics, multivariate and logistic regressions, and the use of Numpy, Pandas, and Matplotlib libraries.
+This A/B Webpage Conversion Project is from Udacity's Nano Degree Program. The project used a fictional dataset to peform an A/B test on the conversion rates of two fictional webpages; conversion rates are defined as the number of viewers that took further steps in the sales pipeline. This project was an exercise of basic statistics, multivariate and logistic regressions, and the use of Numpy, Pandas, and Matplotlib libraries.
 
 # Install
 
